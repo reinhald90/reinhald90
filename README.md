@@ -59,20 +59,18 @@ const me: Developer = {
 
 ## Featured Projects
 
-<div align="center">
-
-[![nano-payload](https://github-readme-stats.vercel.app/api/pin/?username=reinhald90&repo=nano-payload-v1.0.0&theme=radical&hide_border=true)](https://github.com/reinhald90/nano-payload-v1.0.0)
-[![ashiro-cultivasion](https://github-readme-stats.vercel.app/api/pin/?username=reinhald90&repo=ashiro-cultivasion&theme=radical&hide_border=true)](https://github.com/reinhald90/ashiro-cultivasion)
-[![ashiro-motion-pitcure](https://github-readme-stats.vercel.app/api/pin/?username=reinhald90&repo=ashiro-motion-pitcure&theme=radical&hide_border=true)](https://github.com/reinhald90/ashiro-motion-pitcure)
-
-</div>
+| Repo | Bahasa |
+| --- | --- |
+| [nano-payload-v1.0.0](https://github.com/reinhald90/nano-payload-v1.0.0) | JavaScript |
+| [ashiro-cultivasion](https://github.com/reinhald90/ashiro-cultivasion) | JavaScript |
+| [ashiro-motion-pitcure](https://github.com/reinhald90/ashiro-motion-pitcure) | TypeScript |
 
 ## Stats
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=reinhald90&show_icons=true&theme=radical&hide_border=true)
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reinhald90&layout=compact&theme=radical&hide_border=true)
+<img src="https://raw.githubusercontent.com/reinhald90/reinhald90/profile-summary-card-output/radical/3-stats.svg" width="49%" alt="stats"/>
+<img src="https://raw.githubusercontent.com/reinhald90/reinhald90/profile-summary-card-output/radical/1-repos-per-language.svg" width="49%" alt="languages"/>
 
 ![Streak](https://streak-stats.demolab.com?user=reinhald90&theme=radical&hide_border=true)
 
@@ -90,8 +88,4 @@ const me: Developer = {
 
 </div>
 
-<div align="center">
-
-![footer](https://capsule-render.vercel.app/api?type=waves&color=gradient&customColorList=6,12,24&height=120&section=footer)
-
-</div>
+<img src="footer.svg" alt="footer" width="100%"/>
