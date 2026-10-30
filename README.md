@@ -77,7 +77,7 @@ const me: Developer = {
 
 <div align="center">
 
-<img src="chatbot.svg" alt="chatbot" width="360"/>
+<img src="chatbot.svg" alt="chatbot" width="640"/>
 
 </div>
 
