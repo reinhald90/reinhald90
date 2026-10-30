@@ -67,24 +67,17 @@ const me: Developer = {
 
 ## Stats
 
-<div align="center">
+<img src="stats.svg" alt="stats" width="100%"/>
 
-<img src="https://raw.githubusercontent.com/reinhald90/reinhald90/profile-summary-card-output/radical/3-stats.svg" width="49%" alt="stats"/>
-<img src="https://raw.githubusercontent.com/reinhald90/reinhald90/profile-summary-card-output/radical/1-repos-per-language.svg" width="49%" alt="languages"/>
+## Languages
 
-![Streak](https://streak-stats.demolab.com?user=reinhald90&theme=radical&hide_border=true)
+<img src="languages.svg" alt="languages" width="100%"/>
 
-</div>
-
-## Contribution Snake
+## Say Hi
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/reinhald90/reinhald90/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/reinhald90/reinhald90/output/github-snake.svg"/>
-  <img alt="snake animation" src="https://raw.githubusercontent.com/reinhald90/reinhald90/output/github-snake-dark.svg"/>
-</picture>
+<img src="chatbot.svg" alt="chatbot" width="360"/>
 
 </div>
 
