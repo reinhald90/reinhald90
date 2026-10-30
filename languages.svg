@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 190" width="900" height="190">
+  <defs>
+    <filter id="gl" x="-40%" y="-40%" width="180%" height="180%"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <g>
+    <animateTransform attributeName="transform" type="translate" values="0 0;0 -6;0 0" dur="4.0s" begin="0.0s" repeatCount="indefinite"/>
+    <rect x="20" y="25" width="270" height="140" rx="18" fill="#0d1226" stroke="#f7df1e" stroke-opacity="0.5"/>
+    <rect x="44" y="53" width="64" height="64" rx="16" fill="#f7df1e" filter="url(#gl)">
+      <animate attributeName="opacity" values="1;0.8;1" dur="3s" repeatCount="indefinite"/>
+    </rect>
+    <text x="76" y="94" text-anchor="middle" font-family="'Courier New',Courier,monospace" font-size="28" font-weight="700" fill="#111">JS</text>
+    <text x="124" y="81" font-family="'Courier New',Courier,monospace" font-size="20" font-weight="700" fill="#e5e7eb">JavaScript</text>
+    <text x="124" y="105" font-family="'Courier New',Courier,monospace" font-size="13" fill="#9ca3af">Web · Bots</text>
+    <rect x="44" y="133" width="222" height="6" rx="3" fill="#1f2540"/>
+    <rect x="44" y="133" width="60" height="6" rx="3" fill="#f7df1e">
+      <animate attributeName="x" values="44;206;44" dur="3.0s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+<g>
+    <animateTransform attributeName="transform" type="translate" values="0 0;0 -6;0 0" dur="4.7s" begin="0.4s" repeatCount="indefinite"/>
+    <rect x="310" y="25" width="270" height="140" rx="18" fill="#0d1226" stroke="#3178c6" stroke-opacity="0.5"/>
+    <rect x="334" y="53" width="64" height="64" rx="16" fill="#3178c6" filter="url(#gl)">
+      <animate attributeName="opacity" values="1;0.8;1" dur="3s" repeatCount="indefinite"/>
+    </rect>
+    <text x="366" y="94" text-anchor="middle" font-family="'Courier New',Courier,monospace" font-size="28" font-weight="700" fill="#fff">TS</text>
+    <text x="414" y="81" font-family="'Courier New',Courier,monospace" font-size="20" font-weight="700" fill="#e5e7eb">TypeScript</text>
+    <text x="414" y="105" font-family="'Courier New',Courier,monospace" font-size="13" fill="#9ca3af">Typed projects</text>
+    <rect x="334" y="133" width="222" height="6" rx="3" fill="#1f2540"/>
+    <rect x="334" y="133" width="60" height="6" rx="3" fill="#3178c6">
+      <animate attributeName="x" values="334;496;334" dur="3.5s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+<g>
+    <animateTransform attributeName="transform" type="translate" values="0 0;0 -6;0 0" dur="5.4s" begin="0.8s" repeatCount="indefinite"/>
+    <rect x="600" y="25" width="270" height="140" rx="18" fill="#0d1226" stroke="#4ade80" stroke-opacity="0.5"/>
+    <rect x="624" y="53" width="64" height="64" rx="16" fill="#4ade80" filter="url(#gl)">
+      <animate attributeName="opacity" values="1;0.8;1" dur="3s" repeatCount="indefinite"/>
+    </rect>
+    <text x="656" y="94" text-anchor="middle" font-family="'Courier New',Courier,monospace" font-size="28" font-weight="700" fill="#06210f">SN</text>
+    <text x="704" y="81" font-family="'Courier New',Courier,monospace" font-size="20" font-weight="700" fill="#e5e7eb">Snake Script</text>
+    <text x="704" y="105" font-family="'Courier New',Courier,monospace" font-size="13" fill="#9ca3af">Language Designer</text>
+    <rect x="624" y="133" width="222" height="6" rx="3" fill="#1f2540"/>
+    <rect x="624" y="133" width="60" height="6" rx="3" fill="#4ade80">
+      <animate attributeName="x" values="624;786;624" dur="4.0s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+</svg>
